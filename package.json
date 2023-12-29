@@ -1,0 +1,21 @@
+{
+  "name": "backend-preentrega2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "type": "module",
+  "scripts": {
+    "dev": "nodemon src/main.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.3.1",
+    "express-handlebars": "^7.1.2",
+    "mongoose": "^8.0.3",
+    "mongoose-paginate-v2": "^1.7.4",
+    "socket.io": "^4.7.2",
+    "socketio": "^1.0.0"
+  }
+}
